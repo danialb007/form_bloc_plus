@@ -1,14 +1,14 @@
-# form_bloc
+# form_bloc_plus
 
 | Package                                                                            | Pub                                                                                                    |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [form_bloc](https://github.com/GiancarloCode/form_bloc/tree/master/packages/form_bloc)                 | [![pub package](https://img.shields.io/pub/v/form_bloc.svg)](https://pub.dev/packages/form_bloc)                 |
-| [flutter_form_bloc](https://github.com/GiancarloCode/form_bloc/tree/master/packages/flutter_form_bloc)                 | [![pub package](https://img.shields.io/pub/v/flutter_form_bloc.svg)](https://pub.dev/packages/flutter_form_bloc)
+| [form_bloc_plus](https://github.com/danialb007/form_bloc_plus/tree/master/packages/form_bloc_plus)                 | [![pub package](https://img.shields.io/pub/v/form_bloc_plus.svg)](https://pub.dev/packages/form_bloc_plus)                 |
+| [flutter_form_bloc_plus](https://github.com/danialb007/form_bloc_plus/tree/master/packages/flutter_form_bloc_plus)                 | [![pub package](https://img.shields.io/pub/v/flutter_form_bloc.svg)](https://pub.dev/packages/flutter_form_bloc_plus)
 
 
 Easy Form State Management using BLoC pattern. Separate the Form State and Business Logic from the User Interface.
 
-# [🔥👉 Documentation and Tutorials 👈🔥](https://giancarlocode.github.io/form_bloc/)
+# [🔥👉 Documentation and Tutorials 👈🔥](https://danialb007.github.io/form_bloc_plus/)
 
 
 - [x] Synchronous Field Validation
@@ -36,34 +36,34 @@ Easy Form State Management using BLoC pattern. Separate the Form State and Busin
         <tr>
             <td> 
                 <a>
-                    <img src="https://raw.githubusercontent.com/GiancarloCode/form_bloc/master/screenshots/form_bloc1.gif" width="230"/>
+                    <img src="https://raw.githubusercontent.com/danialb007/form_bloc_plus/master/screenshots/form_bloc1.gif" width="230"/>
                 </a>
             </td>    
             <td>   
                 <a>
-                    <img src="https://raw.githubusercontent.com/GiancarloCode/form_bloc/master/screenshots/form_bloc2.gif" width="230"/>                   
+                    <img src="https://raw.githubusercontent.com/danialb007/form_bloc_plus/master/screenshots/form_bloc2.gif" width="230"/>                   
                 </a>
             </td>
              <td>   
                 <a>
-                    <img src="https://raw.githubusercontent.com/GiancarloCode/form_bloc/master/screenshots/form_bloc3.gif" width="230"/>                   
+                    <img src="https://raw.githubusercontent.com/danialb007/form_bloc_plus/master/screenshots/form_bloc3.gif" width="230"/>                   
                 </a>
             </td>        
         </tr>
         <tr>
             <td> 
                 <a>
-                    <img src="https://raw.githubusercontent.com/GiancarloCode/form_bloc/master/screenshots/form_bloc4.gif" width="230"/>
+                    <img src="https://raw.githubusercontent.com/danialb007/form_bloc_plus/master/screenshots/form_bloc4.gif" width="230"/>
                 </a>
             </td>    
             <td>   
                 <a>
-                    <img src="https://raw.githubusercontent.com/GiancarloCode/form_bloc/master/screenshots/form_bloc5.gif" width="230"/>                   
+                    <img src="https://raw.githubusercontent.com/danialb007/form_bloc_plus/master/screenshots/form_bloc5.gif" width="230"/>                   
                 </a>
             </td>
             <td>   
                 <a>
-                    <img src="https://raw.githubusercontent.com/GiancarloCode/form_bloc/master/screenshots/form_bloc6.gif" width="230"/>                   
+                    <img src="https://raw.githubusercontent.com/danialb007/form_bloc_plus/master/screenshots/form_bloc6.gif" width="230"/>                   
                 </a>
             </td>            
         </tr>
@@ -74,6 +74,5 @@ Easy Form State Management using BLoC pattern. Separate the Form State and Busin
 
 ## Maintainers
 
-- [GiancarloCode](https://github.com/GiancarloCode)
-- [AhmedWahdan](https://github.com/WahdanZ)
+- [Danial](https://github.com/danialb007)
 

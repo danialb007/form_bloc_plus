@@ -9,7 +9,7 @@ part 'form_state.dart';
 
 /// The base class for all `FormBlocs`.
 ///
-/// See complex examples here: https://github.com/GiancarloCode/form_bloc/tree/master/packages/flutter_form_bloc/example/lib/forms
+/// See complex examples here: https://github.com/danialb007/form_bloc_plus/tree/master/packages/flutter_form_bloc_plus/example/lib/forms
 abstract class FormBloc<SuccessResponse, FailureResponse>
     extends Cubit<FormBlocState<SuccessResponse, FailureResponse>> {
   /// See: [_setupStepValidationSubs].
