@@ -1,0 +1,37 @@
+name: form_bloc_web
+description: Easy Form State Management using BLoC pattern. Separate the Form State and Business Logic from the User Interface.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_form_bloc_plus: ^0.32.0
+  animations: ^2.0.11
+  flutter_syntax_view: ^4.1.7
+  flash: ^3.1.1
+  url_launcher: ^6.1.12
+  markdown_widget: ^2.3.2+8
+  auto_size_text: ^3.0.0-nullsafety.0
+  liquid_progress_indicator_v2: ^0.5.0
+  rxdart: ^0.28.0
+  google_fonts: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: JosefinSans
+      fonts:
+        - asset: assets/fonts/JosefinSans-Regular.ttf
+        - asset: assets/fonts/JosefinSans-Bold.ttf
+          weight: 700
+  assets:
+    - lib/examples/
