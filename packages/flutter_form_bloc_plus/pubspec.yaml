@@ -13,14 +13,12 @@ dependencies:
     sdk: flutter
 
   flutter_bloc: ^9.0.0
-  # form_bloc_plus: ^0.32.0
-  form_bloc_plus:
-    path: ../form_bloc_plus
+  form_bloc_plus: ^0.32.0
   equatable: ^2.0.7
   rxdart: ^0.28.0
   flutter_keyboard_visibility: ^6.0.0
   collection: ^1.19.1
-  intl:
+  intl: ^0.20.2
 
 dev_dependencies:
   flutter_test:
